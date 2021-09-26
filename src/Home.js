@@ -1,8 +1,13 @@
 const Home = () => {
+
+
+    const handleClick =()
+    
     return (  
         <div className="home">
             <div className="body">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores tempore odit sunt qui, distinctio in voluptate commodi, voluptatibus placeat quis cupiditate sed pariatur deleniti obcaecati mollitia, facere quibusdam eos est.</p>
+            <h1>Home Page</h1>
+            <button>Click me</button>
             </div>
         </div>
     );
